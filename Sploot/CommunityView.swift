@@ -8,7 +8,7 @@
 import SwiftUI
 
 
-struct FamilyView: View {
+struct CommunityView: View {
     
     let familyImages : [String] = ["cookie", "Coffee","cookie", "Coffee"]
     
@@ -62,5 +62,5 @@ struct FamilyView: View {
     }
 }
 #Preview {
-    FamilyView()
+    CommunityView()
 }

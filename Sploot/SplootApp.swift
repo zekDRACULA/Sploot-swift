@@ -11,7 +11,7 @@ import SwiftUI
 struct SplootApp: App {
     var body: some Scene {
         WindowGroup {
-            FamilyView()
+            CommunityView()
         }
     }
 }

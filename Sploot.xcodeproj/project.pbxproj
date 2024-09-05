@@ -10,7 +10,7 @@
 		B1037C152C8909F8005067F7 /* SplootApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1037C142C8909F8005067F7 /* SplootApp.swift */; };
 		B1037C192C8909F9005067F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1037C182C8909F9005067F7 /* Assets.xcassets */; };
 		B1037C1C2C8909F9005067F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1037C1B2C8909F9005067F7 /* Preview Assets.xcassets */; };
-		B1037C232C890A27005067F7 /* FamilyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1037C222C890A27005067F7 /* FamilyView.swift */; };
+		B1037C232C890A27005067F7 /* CommunityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1037C222C890A27005067F7 /* CommunityView.swift */; };
 		B1037C252C8933BC005067F7 /* viewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1037C242C8933BC005067F7 /* viewModel.swift */; };
 		B1037C272C89343D005067F7 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1037C262C89343D005067F7 /* DataModel.swift */; };
 /* End PBXBuildFile section */
@@ -20,7 +20,7 @@
 		B1037C142C8909F8005067F7 /* SplootApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplootApp.swift; sourceTree = "<group>"; };
 		B1037C182C8909F9005067F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1037C1B2C8909F9005067F7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B1037C222C890A27005067F7 /* FamilyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyView.swift; sourceTree = "<group>"; };
+		B1037C222C890A27005067F7 /* CommunityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityView.swift; sourceTree = "<group>"; };
 		B1037C242C8933BC005067F7 /* viewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewModel.swift; sourceTree = "<group>"; };
 		B1037C262C89343D005067F7 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -56,7 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				B1037C142C8909F8005067F7 /* SplootApp.swift */,
-				B1037C222C890A27005067F7 /* FamilyView.swift */,
+				B1037C222C890A27005067F7 /* CommunityView.swift */,
 				B1037C242C8933BC005067F7 /* viewModel.swift */,
 				B1037C262C89343D005067F7 /* DataModel.swift */,
 				B1037C182C8909F9005067F7 /* Assets.xcassets */,
@@ -146,7 +146,7 @@
 				B1037C152C8909F8005067F7 /* SplootApp.swift in Sources */,
 				B1037C272C89343D005067F7 /* DataModel.swift in Sources */,
 				B1037C252C8933BC005067F7 /* viewModel.swift in Sources */,
-				B1037C232C890A27005067F7 /* FamilyView.swift in Sources */,
+				B1037C232C890A27005067F7 /* CommunityView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
